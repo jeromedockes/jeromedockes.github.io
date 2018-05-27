@@ -12,8 +12,8 @@ analysis of the neuroscience scientific literature . I am part of
 the [Parietal team](https://team.inria.fr/parietal/)
 at [INRIA](https://www.inria.fr/en/), and I work under the supervision
 of
-[Gaël Varoquaux](http://gael-varoquaux.info),
 [Fabian Suchanek](https://suchanek.name)
-(from [Télécom ParisTech](https://www.telecom-paristech.fr/eng))
+(from [Télécom ParisTech](https://www.telecom-paristech.fr/eng)),
+[Gaël Varoquaux](http://gael-varoquaux.info)
 and
 [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/).
