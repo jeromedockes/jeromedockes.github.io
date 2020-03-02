@@ -20,7 +20,7 @@ ParisTech](https://www.telecom-paristech.fr/eng)), [Gaël
 Varoquaux](http://gael-varoquaux.info) and [Bertrand
 Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/).
 
-email: firstname@lastname.org
+Email: firstname@lastname.org
 
 <a rel="me" href="https://github.com/jeromedockes" title="jeromedockes"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>GitHub account</a>
 
