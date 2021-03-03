@@ -1,0 +1,2 @@
+User-agent: * Disallow:
+Sitemap: https://jeromedockes.github.io/sitemap.xml
