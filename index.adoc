@@ -7,7 +7,8 @@
 I am a post-doc in computer science at the https://www.mcgill.ca/neuro/[Montreal Neurological
 Institute] since February, 2020.
 I am working with https://www.mcgill.ca/qls/researchers/jb-poline[JB Poline] and http://gael-varoquaux.info[Gaël Varoquaux].
-I am interested in machine learning, statistics and computational neuroscience.
+We investigate the generalization of machine learning-based biomarkers on the https://www.ukbiobank.ac.uk[UKBiobank].
+I am interested in machine learning, (bio)statistics and computational neuroscience.
 
 During my thesis, I worked on statistical methods and predictive models for
 large-scale automated analysis of the neuroscience scientific literature.
@@ -15,7 +16,7 @@ I was part of the https://team.inria.fr/parietal/[Parietal team] at https://www.
 
 Contact: <jerome@dockes.org>
 
-https://github.com/jeromedockes[GitHub account]
+https://github.com/jeromedockes[GitHub account] -- I am one of the maintainers of https://nilearn.github.io[Nilearn]; I also developped and maintain https://neuroquery.org[NeuroQuery] with Romain Primet and Hande Gözükan, as well as https://jeromedockes.github.io/labelbuddy[labelbuddy].
 
 https://hal.archives-ouvertes.fr/search/index/?q=jerome+dockes&authIdHal_s=jerome-dockes[Publications]
 
