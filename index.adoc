@@ -4,19 +4,17 @@
 :webfonts!:
 :nofooter:
 
-I am a post-doc in computer science at the https://www.mcgill.ca/neuro/[Montreal Neurological
-Institute] since February, 2020.
-I am working with https://www.mcgill.ca/qls/researchers/jb-poline[JB Poline] and http://gael-varoquaux.info[Gaël Varoquaux].
-We investigate the generalization of machine learning-based biomarkers on the https://www.ukbiobank.ac.uk[UKBiobank].
+I am a post-doc in computer science at the https://www.mcgill.ca/neuro/[Montreal Neurological Institute] since February, 2020.
+I am working with https://www.mcgill.ca/qls/researchers/jb-poline[JB Poline] on methods and tools for meta-analysis and text-mining of the neuroimaging literature.
+In another project we investigate the generalization of machine learning-based biomarkers on the https://www.ukbiobank.ac.uk[UKBiobank].
 I am interested in machine learning, (bio)statistics and computational neuroscience.
 
-During my thesis, I worked on statistical methods and predictive models for
-large-scale automated analysis of the neuroscience scientific literature.
+During my thesis, I worked on statistical methods and predictive models for large-scale automated analysis of the neuroscience scientific literature.
 I was part of the https://team.inria.fr/parietal/[Parietal team] at https://www.inria.fr/en/[INRIA], and I worked under the supervision of https://suchanek.name[Fabian Suchanek] (from https://www.telecom-paristech.fr/eng[Télécom ParisTech]), http://gael-varoquaux.info[Gaël Varoquaux] and https://team.inria.fr/parietal/team-members/bertrand-thirions-page/[Bertrand Thirion].
 
 Contact: <jerome@dockes.org>
 
-https://github.com/jeromedockes[GitHub account] -- I am one of the maintainers of https://nilearn.github.io[Nilearn]; I also developped and maintain https://neuroquery.org[NeuroQuery] with Romain Primet and Hande Gözükan, as well as https://jeromedockes.github.io/labelbuddy[labelbuddy].
+https://github.com/jeromedockes[GitHub account] -- I am one of the maintainers of https://nilearn.github.io[Nilearn]; I also developed and maintain https://neuroquery.org[NeuroQuery] with Romain Primet and Hande Gözükan; I developed and maintain https://neuroquery.github.io/pubget[pubget] and https://jeromedockes.github.io/labelbuddy[labelbuddy].
 
 https://hal.archives-ouvertes.fr/search/index/?q=jerome+dockes&authIdHal_s=jerome-dockes[Publications]
 
